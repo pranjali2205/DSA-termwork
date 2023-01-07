@@ -1,4 +1,7 @@
-
+/*NAME- PRANJALI SRIVASTAVA
+  SEC - A
+  ROLL NO- 05
+  */
 #include<stdio.h>
 int main()
 {
